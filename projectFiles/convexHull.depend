@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1474238656 source:j:\dropbox\l4t2\cse 464\convexhull\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<stack>
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+
+1474238069 source:c:\users\sesip user\dropbox\l4t2\cse 464\convexhull\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<stack>
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+
+1474243833 source:c:\users\bivor\desktop\1105039_convexhull\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<stack>
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+
+1474289713 source:c:\users\bivor\desktop\assignment 1\convexhull\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<stack>
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+
+1474629906 source:c:\users\bivor\desktop\assignment 1\projectfiles\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	<stack>
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+
